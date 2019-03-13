@@ -1,7 +1,7 @@
 # FALCON-HEAVY-NIGHTLIGHT-V2
 Files for you to create an awesome 3D printed Falcon Heavy Nightlight
 
-Remix of https://www.thingiverse.com/thing:2829192. 
+This thing can be found on Thingiverse.com www.thingiverse.com/thing:3066586
 I scaled all models up 200%, added magnets and 2x 18650 battery + charge, protect, boost. I programmed Arduino Nano so you can chose from 3 main LED programs or the same, with stronger light. 
 Print rocket at 100% infill
 Exhaust at 0% infill with 3 perimeters
